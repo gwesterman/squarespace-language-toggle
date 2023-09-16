@@ -1,0 +1,10 @@
+{
+  "name": "squarespace-language-toggle",
+  "version": "1.0.0",
+  "description": "Simple language toggle for Squarespace websites",
+  "author": "Gordon Westerman",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "3.0.0"
+  }
+}
